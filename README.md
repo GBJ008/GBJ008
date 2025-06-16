@@ -18,8 +18,9 @@
 
 ## Estudando no momento
 
-![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Blog](https://img.shields.io/badge/-HTML-FF8C00?style=for-the-badge&logo=html5&labelColor=FF8C00)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-FF8C00?style=for-the-badge&logo=html5&labelColor=FF8C00)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## Ferramentas
 
